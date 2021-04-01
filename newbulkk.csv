@@ -1,3 +1,0 @@
-firstname,middleInitial,lastname,username,email,streetaddress,city,zipcode,state,country,department,password,telephone,jobtitle,company,ou
-Joshua,L,Lynch,JLynch,JLynch@deepakchawla.com,2749 Liberty Street,Delhi,110051,Delhi,India,Marketing,India@12345,214-800-4820,Marking Specialist,Testing,"OU=useraccounts,DC=deepakchawla,DC=COM"
-Sam,A,smith,ssmith,ssmith@deepakchawla.com,2749 Liberty Street,Delhi,110051,Delhi,India,Marketing,India@12346,214-800-4820,Marking Specialist,Testing,"OU=useraccounts,DC=deepakchawla,DC=COM"
